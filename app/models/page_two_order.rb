@@ -1,0 +1,2 @@
+class PageTwoOrder < ApplicationRecord
+end

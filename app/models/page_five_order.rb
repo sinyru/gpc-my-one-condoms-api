@@ -1,0 +1,2 @@
+class PageFiveOrder < ApplicationRecord
+end

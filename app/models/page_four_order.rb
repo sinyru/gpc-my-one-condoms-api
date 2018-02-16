@@ -1,0 +1,2 @@
+class PageFourOrder < ApplicationRecord
+end

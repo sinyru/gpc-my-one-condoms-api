@@ -1,0 +1,2 @@
+class PageOneOrder < ApplicationRecord
+end

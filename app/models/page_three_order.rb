@@ -1,0 +1,2 @@
+class PageThreeOrder < ApplicationRecord
+end
